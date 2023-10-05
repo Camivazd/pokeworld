@@ -1,0 +1,10 @@
+
+.estiloGreeting{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 10px;
+    color: rgb(74, 88, 74);
+}
